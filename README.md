@@ -26,3 +26,11 @@ As with any educational tool, it is essential to consider ethical implications a
 
 **Conclusion:**
 In conclusion, the Historical Figures Age Tracker App stands as a testament to the transformative power of technology in reshaping the landscape of education and learning. By harnessing the capabilities of mobile technology and digital platforms, the app offers users an immersive and interactive journey through history. With its intuitive design, inclusive features, and robust infrastructure powered by GitHub and GitHub Actions, the app exemplifies a commitment to excellence and innovation in education. As it continues to evolve and adapt to the changing needs of users, the app will remain a valuable resource for learners of all ages, inviting them to explore, discover, and engage with the rich tapestry of human history.
+
+these are the following screenshots
+
+![Screenshot (1)](https://github.com/Pipbull/Assignment-1/assets/123214850/cf827770-a077-4c53-bcff-717cb76635cb)
+![Screenshot (2)](https://github.com/Pipbull/Assignment-1/assets/123214850/9946bfdc-ce2d-4ddf-b2d4-ed5dacbab9c4)
+![Screenshot (3)](https://github.com/Pipbull/Assignment-1/assets/123214850/e0c317df-548f-4743-8a69-e706086b379c)
+![Screenshot (4)](https://github.com/Pipbull/Assignment-1/assets/123214850/92c100c7-8665-4e58-a2c2-18d7cc9ab536)
+![Screenshot (5)](https://github.com/Pipbull/Assignment-1/assets/123214850/cf9671a4-71bf-4e3d-ba45-9287b1241223)
